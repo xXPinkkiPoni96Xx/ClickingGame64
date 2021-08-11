@@ -7,3 +7,7 @@
 # Requirments
 - .Net 4.8
 - Directory where the application has access to (for save file).
+
+# Downloading
+- windows smart thingy will pop up cuz i have not signed a sertificate for this
+- if u really wanna download this, just go to the releases page
