@@ -1,5 +1,5 @@
 # ClickingGame64
-- One of the worlds simplest clicking games.
+- one of the worlds simplest clicking games
 - cool save game feature
 - i hate it
 ![scr](https://user-images.githubusercontent.com/62301857/129025313-107a1fc9-1c3d-4a68-9c83-21cb29cbd122.png)
