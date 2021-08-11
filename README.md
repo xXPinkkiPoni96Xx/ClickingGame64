@@ -10,4 +10,4 @@
 
 # Downloading
 - windows smart thingy will pop up cuz i have not signed a sertificate for this
-- if u really wanna download this, just go to the releases page
+- but if u really wanna download this, just go to the releases page
