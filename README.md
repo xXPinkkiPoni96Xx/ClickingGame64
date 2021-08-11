@@ -6,7 +6,7 @@
 
 # Requirments
 - .Net 4.8
-- Directory where the application has access to (for save file).
+- Directory where the application has access to. (For save.cg64 save file)
 
 # Downloading
 - windows smart thingy will pop up cuz i have not signed a sertificate for this
