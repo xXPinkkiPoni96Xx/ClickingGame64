@@ -11,3 +11,5 @@
 # Downloading
 - windows protection thingy will pop up bc i have not signed a certificate for this
 - but if u really wanna download this, just go to the releases page~
+
+# hyi saatana mitä mie oon tehny
